@@ -24,7 +24,7 @@ OWASP Natori へようこそ。
 
 ## OWASP Natori へスピーカーとして参加ご希望の方へ
 
-OWASP - Open Web Application Security Project
+OWASP - Open Worldwide Application Security Project
 とは、Webをはじめとするソフトウェアのセキュリティ環境の現状、またセキュアなソフトウェア開発を促進する技術・プロセスに関する情報共有と普及啓発を目的としたプロフェッショナルの集まる、非営利のオープンソース・ソフトウェアコミュニティです。
 
 OWASPのチャプターミーティングでのスピーカーとしての参加ご希望の方は、 [Speaker
